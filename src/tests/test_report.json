@@ -1,0 +1,1 @@
+[{"OrderNumber":"80279B62","Items":[{"Product":{"Id":1,"Name":"Test","Category":null,"Price":10.0},"Quantity":2,"TotalPrice":20.0}],"CustomerName":"Тестовый клиент","Address":"ул. Тестовая, дом 1","Phone":"123456","Email":"test@test.com","Status":"Обработан","OrderDate":"2026-06-18T22:10:50.3793227+09:00"}]
