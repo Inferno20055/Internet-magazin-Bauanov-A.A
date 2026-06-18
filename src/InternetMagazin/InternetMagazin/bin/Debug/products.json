@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Name": "iPhone 14",
+    "Category": "Телефоны",
+    "Price": 799.0
+  },
+  {
+    "Id": 0,
+    "Name": "Samsung Galaxy S23",
+    "Category": "Телефоны",
+    "Price": 749.0
+  },
+  {
+    "Id": 0,
+    "Name": "Dell XPS 13",
+    "Category": "Ноутбуки",
+    "Price": 999.0
+  },
+  {
+    "Id": 0,
+    "Name": "Клавиатура",
+    "Category": "Аксессуары",
+    "Price": 50.0
+  }
+]
